@@ -71,28 +71,28 @@ method : GET
 parameters : None
 ```
 
-## Update all data of your node
+### Update all data of your node
 ```
 address : /update-block
 method : GET
 parameters : None
 ```
 
-## Mine new block
+### Mine new block
 ```
 address : /mine
 method : GET
 parameters : None
 ```
 
-## Count votes
+### Count votes
 ```
 address : /count-votes
 method : GET
 parameters : None
 ```
 
-## Add a new vote
+### Add a new vote
 Everyone id is added to the blockchain as a hash.Votes add
 with this format:
 ```
