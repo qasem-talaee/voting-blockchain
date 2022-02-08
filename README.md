@@ -104,7 +104,7 @@ for add new vote:
 address : /new-vote
 method : POST
 parameters : {
-    'person-id': id,
+    'person_id': id,
     'vote': vote,
 }
 ```
