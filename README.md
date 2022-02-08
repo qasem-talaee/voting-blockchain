@@ -29,6 +29,7 @@ then get the source code and in source code directory:
 ```bash
 python3 -m venv ./venv
 source ./venv/bin/activate
+pip3 install -r req.txt
 ```
 and run it
 ```bash
